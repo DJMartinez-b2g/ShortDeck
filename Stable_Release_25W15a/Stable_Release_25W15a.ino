@@ -76,10 +76,9 @@ void loop() {
           buttonPressStart[i] = 1;
         }
       }
-
     }
 
-// Si le bouton est relâché
+    // Si le bouton est relâché
     if (digitalRead(touche_clavier[i]) == HIGH) {
       if (debounceTimes[i] != 0) {
         debounceTimes[i] = 0;
@@ -125,17 +124,14 @@ void envoyerCommande(int profil, int bouton) {
           Consumer.write(0);
           break;
         case 7:
-          Keyboard.press(KEY_LEFT_GUI);
-          Keyboard.press('r');
+          Keyboard.press(KEY_LEFT_SHIFT);
+          Keyboard.press(KEY_LEFT_ARROW);
           Keyboard.releaseAll();
           delay(100);
-          Keyboard.print("sndvol");
-          Keyboard.press(KEY_RETURN);
-          Keyboard.releaseAll();
           break;
         case 8:
-          Keyboard.press(KEY_LEFT_GUI);
-          Keyboard.press('i');
+          Keyboard.press(KEY_LEFT_SHIFT);
+          Keyboard.press(KEY_RIGHT_ARROW);
           Keyboard.releaseAll();
           break;
       }
