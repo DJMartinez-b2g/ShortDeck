@@ -1,12 +1,8 @@
 # ⌨️ ShortDeck : Votre Mini-Clavier Modulaire Arduino Personnalisable
 
 	
-[![Arduino](https://img.shields.io/badge/Arduino-CC0000?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![GitHub Stars](https://img.shields.io/github/stars/DJMartinez-b2g/ShortDeck?style=social)](https://github.com/DJMartinez-b2g/ShortDeck)
 [![GitHub Forks](https://img.shields.io/github/forks/DJMartinez-b2g/ShortDeck?style=social)](https://github.com/DJMartinez-b2g/ShortDeck)
-[![License](https://img.shields.io/github/license/DJMartinez-b2g/ShortDeck)](LICENSE)
-
-
 
   <img src="https://img.shields.io/github/v/release/DJMartinez-b2g/ShortDeck" alt="GitHub release"/>
   <img src="https://img.shields.io/github/actions/workflow/status/OctoPrint/OctoPrint/build.yml?branch=master" alt="Build status"/>
