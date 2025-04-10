@@ -1,4 +1,4 @@
-# ⌨️ ShortDeck: Votre Mini-Clavier Modulaire Arduino Personnalisable
+# ⌨️ ShortDeck : Votre Mini-Clavier Modulaire Arduino Personnalisable
 
 [![Arduino](https://img.shields.io/badge/Arduino-CC0000?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![GitHub Stars](https://img.shields.io/github/stars/DJMartinez-b2g/ShortDeck?style=social)](https://github.com/DJMartinez-b2g/ShortDeck)
@@ -7,7 +7,9 @@
 
 **Créez votre propre mini-clavier entièrement personnalisable avec ShortDeck !** Basé sur une carte Arduino, ce projet open-source vous permet de concevoir un périphérique d'entrée compact et polyvalent, adapté à vos besoins spécifiques. Que vous soyez un gamer, un créateur de contenu, ou simplement à la recherche d'un moyen d'optimiser votre flux de travail, ShortDeck est fait pour vous.
 
-![ShortDeck en action (ajoutez une image de votre projet ici)](./images/shortdeck_example.jpg) ## ✨ Fonctionnalités Clés
+//![ShortDeck en action (ajoutez une image de votre projet ici)](./images/shortdeck_example.jpg)
+
+## ✨ Fonctionnalités Clés
 
 * **Entièrement Modulable :** Adaptez le nombre de touches et leur disposition selon vos préférences.
 * **Quatre Profils Configurables :** Basculez facilement entre quatre configurations de commandes distinctes pour différentes applications ou tâches.
